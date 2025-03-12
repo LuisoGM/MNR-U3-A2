@@ -1,4 +1,4 @@
-#   MNC3-2.2.py - Ejercicio 1. Balance de materia en una reacción química
+#   MNC3-2.2.py - Ejercicio 2: Tráfico urbano
 #   Modificaciones realizadas por: Luis Jorge Fuentes Tec
 
 #   Codigo que implementa el esquema numerico 

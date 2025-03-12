@@ -1,4 +1,4 @@
-#   MNC3-2.1.py - Ejercicio 1. Balance de materia en una reacción química
+#   MNC3-2.1.py - Ejercicio 1: Distribución de energía
 #   Modificaciones realizadas por: Luis Jorge Fuentes Tec
 
 #   Codigo que implementa el esquema numerico 

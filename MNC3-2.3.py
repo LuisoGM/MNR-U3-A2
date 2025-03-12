@@ -1,4 +1,4 @@
-#   MNC3-2.3.py - Ejercicio 1. Balance de materia en una reacción química
+#   MNC3-2.3.py - Ejercicio 3: Interacción térmica
 #   Modificaciones realizadas por: Luis Jorge Fuentes Tec
 
 #   Codigo que implementa el esquema numerico 
